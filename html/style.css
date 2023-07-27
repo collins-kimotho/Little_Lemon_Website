@@ -1,3 +1,25 @@
-h1 {
+h2 {
+    color: white;
+    background-color: teal;
+}
+
+h1{
+    color: black;
+}
+
+a{
     color: blue;
+}
+
+p.description{
+    margin: 4px;
+}
+
+p {
+    font-family: "Courier New", monospace;
+    font-size 12px;
+}
+
+a {
+    text-transform: uppercase;
 }
